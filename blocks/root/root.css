@@ -3,8 +3,8 @@
   font-family: "Inter","Helvetica Neue", Arial, sans-serif;
   font-style: normal;
   color: #FFFFFF;
-  -webkit-font-smoothing: antialiased; 
-  -moz-osx-font-smoothing: grayscale; 
+  /* -webkit-font-smoothing: antialiased; 
+  -moz-osx-font-smoothing: grayscale;  */
   min-width: 300px;
   max-width: 1280px;
   margin:0 auto;
