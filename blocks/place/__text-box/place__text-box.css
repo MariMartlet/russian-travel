@@ -1,0 +1,21 @@
+.place__text-box {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+}
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .place__text-box {
+    gap: 27px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .place__text-box {
+    gap: 25px;
+  }
+}
+@media (max-width: 767px) {
+  .place__text-box {
+    gap: 25px;
+    margin: 0 16px;
+  }
+}
