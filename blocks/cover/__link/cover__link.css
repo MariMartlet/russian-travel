@@ -1,5 +1,6 @@
 .cover__link {
   background-image: url("../../../images/cover-trains.jpg");
+  background-position: center;
   display: flex;
   flex-direction: column;
   background-size: cover;
@@ -26,4 +27,3 @@
   transition: 0.5s;
   opacity: 0.8;
 }
-
